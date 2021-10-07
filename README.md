@@ -27,21 +27,11 @@
 #### Tutorials & Projects
 - [Break Solana](https://github.com/solana-labs/break)
 - [Hello World](https://github.com/solana-labs/example-helloworld)
-- [Token Swap (Advanced)](https://github.com/solana-labs/solana-program-library/tree/master/token-swap)
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
 - [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
-- [Solana Go](https://github.com/dfuse-io/solana-go)
-- [Serum Academy](https://serum-academy.com)
 - [Messaging App](https://github.com/kemargrant/soltalk) - Proof of Concept
-- On-chain Pools:
-  - [A general preview](https://docs.google.com/document/d/1lmMZRKkxMFOtGOEZOFEKYL7syqv-4QT87F0o55fc35Y/edit)
-  - [Work in progress code](https://github.com/project-serum/serum-dex/tree/pool-wip/pool)
-- [Bonfida](https://bonfida.com/):
-  - [REST API](https://bonfida.com/blog/articles/serum-api) to get Serum market data
-  - [GUI](https://github.com/dr497/serum-dex-ui)
-  - [Wallet](https://github.com/dr497/spl-token-wallet)
 
 ## Source
 - [DEX source code](https://github.com/project-serum/serum-dex)
@@ -60,9 +50,12 @@
 
 #### Libraries & Frameworks
 - Anchor Framework: https://project-serum.github.io/anchor/getting-started/introduction.html
+- Solana Program Library: https://github.com/solana-labs/solana-program-library
+- [StreamingFast Solana library for Go](https://github.com/streamingfast/solana-go)
 
 ### RPC servers
 - Project Serum: [https://solana-api.projectserum.com](https://solana-api.projectserum.com) (**recommended**)
+- Figment-Solana: https://docs.figment.io/network-documentation/solana/rpc-and-rest-api
 - Solana: [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com) (**can be unstable**)
 
 ### Data/API
@@ -70,6 +63,7 @@
 - Pyth provides real-time on-chain market data: https://pyth.network/
 - Flux Protocol (cross-chain oracle aggregator): https://www.fluxprotocol.org/
 - [Serum Vial](https://github.com/tardis-dev/serum-vial) - real-time WebSocket market data API for Serum
+- Bonfida: https://docs.bonfida.com/#exchanges
 
 ### Messaging
 - Wormhole is a protocol for communication between different blockchains: https://wormholenetwork.com/
