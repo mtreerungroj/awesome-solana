@@ -22,18 +22,16 @@
 
 ## Developer
 ### Learn
-- Figment Learn: https://learn.figment.io/
-
-#### Tutorials & Projects
-- [Break Solana](https://github.com/solana-labs/break)
 - [Hello World](https://github.com/solana-labs/example-helloworld)
+- Figment Learn: https://learn.figment.io/
+- [Break Solana](https://github.com/solana-labs/break)
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
 - [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
 - [Messaging App](https://github.com/kemargrant/soltalk) - Proof of Concept
 
-## Source
+### Source
 - [DEX source code](https://github.com/project-serum/serum-dex)
 - [Serum.JS](https://github.com/project-serum/serum-js), client-side javascript resources to connect to the DEX
 - [Serum DEX UI](https://github.com/project-serum/serum-dex-ui), an implementation of a UI for the Serum DEX
@@ -48,7 +46,7 @@
   - [Swap UI](https://github.com/project-serum/swap-ui)
   - [Swap code](https://github.com/project-serum/swap)
 
-#### Libraries & Frameworks
+### Libraries & Frameworks
 - Anchor Framework: https://project-serum.github.io/anchor/getting-started/introduction.html
 - Solana Program Library: https://github.com/solana-labs/solana-program-library
 - [StreamingFast Solana library for Go](https://github.com/streamingfast/solana-go)
