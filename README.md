@@ -2,14 +2,13 @@
 
 ## User
 ### Bridge
-- https://allbridge.io/
+- `Allbridge` is backed by `APYSwap` Foundation: https://allbridge.io/
 
 ### Exchange
 - Saber (cross-chain stablecoin exchange): https://saber.so/
-- Serum (DEX): https://projectserum.com/
 
 ### Automated Market Maker
-- Raydium: https://raydium.io/
+- Raydium (DEX on Serum): https://raydium.io/
 
 ### Yield Aggregator
 - SolFarm aggregates yield farms from Raydium and Saber: https://solfarm.io/
@@ -18,12 +17,16 @@
 ### Fundraising Protocol
 - Solanium: https://solanium.io/
 
+### DeFi
+- Stake(`ABR` APR 522.37%): https://stake.apyswap.com/
+- Pools(`ABR-USDC` APR 218%): https://www.orca.so/pools
+
 - - -
 
 ## Developer
 ### Learn
-- [Hello World](https://github.com/solana-labs/example-helloworld)
 - Figment Learn: https://learn.figment.io/
+- [Hello World](https://github.com/solana-labs/example-helloworld)
 - [Break Solana](https://github.com/solana-labs/break)
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
@@ -31,25 +34,10 @@
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
 - [Messaging App](https://github.com/kemargrant/soltalk) - Proof of Concept
 
-### Source
-- [DEX source code](https://github.com/project-serum/serum-dex)
-- [Serum.JS](https://github.com/project-serum/serum-js), client-side javascript resources to connect to the DEX
-- [Serum DEX UI](https://github.com/project-serum/serum-dex-ui), an implementation of a UI for the Serum DEX
-- Testnet deployment of prototype DEX
-  - [DEX Program](https://explorer.solana.com/address/9JipvuvjcirpYf8mzYQtozXeYtQLWY67LaZCiANSMNgs)
-  - [DEX Market](https://explorer.solana.com/address/2tJ2LVReFCZF81Ej4MAQHEr1kRSmk6QQ5XSnzjC9KJNj)
-- Mainnet examples:
-  - [DEX Program](https://explorer.solana.com/address/4ckmDgGdxQoPDLUkDT3vHgSAkzA3QRdNq5ywwY4sUSJn)
-  - [DEX Market](https://explorer.solana.com/address/8AcVjMG2LTbpkjNoyq8RwysokqZunkjy3d5JDzxC6BJa)
-- [PySerum](https://github.com/serum-community/pyserum): Python client library for interacting with the Project Serum DEX.
-- Swap based on Serum DEX orderbook:
-  - [Swap UI](https://github.com/project-serum/swap-ui)
-  - [Swap code](https://github.com/project-serum/swap)
-
 ### Libraries & Frameworks
-- Anchor Framework: https://project-serum.github.io/anchor/getting-started/introduction.html
-- Solana Program Library: https://github.com/solana-labs/solana-program-library
+- Solana Program Library (SPL) is a collection of on-chain programs targeting the [Sealevel parallel runtime](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192): https://github.com/solana-labs/solana-program-library/blob/master/examples/rust/README.md
 - [StreamingFast Solana library for Go](https://github.com/streamingfast/solana-go)
+- Anchor Framework: https://project-serum.github.io/anchor/getting-started/introduction.html
 
 ### RPC servers
 - Project Serum: [https://solana-api.projectserum.com](https://solana-api.projectserum.com) (**recommended**)
@@ -68,6 +56,7 @@
 
 ### Storage
 - Arweave and Solana partnered to provide a decentralised permanent data storage solution of ledger data: https://www.arweave.org/
+- Ceramic (Streaming `IPFS`): https://ceramic.network/
 
 ### Tools
 - [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters
@@ -76,3 +65,17 @@
 - [Bonfida Token Minter](https://bonfida.com/mint)
 - [SPL Manager](http://splmanager.com/)
 
+### Serum (FTX DEX backend): https://projectserum.com/
+- [DEX source code](https://github.com/project-serum/serum-dex)
+- [Serum.JS](https://github.com/project-serum/serum-js), client-side javascript resources to connect to the DEX
+- [Serum DEX UI](https://github.com/project-serum/serum-dex-ui), an implementation of a UI for the Serum DEX
+- Testnet deployment of prototype DEX
+  - [DEX Program](https://explorer.solana.com/address/9JipvuvjcirpYf8mzYQtozXeYtQLWY67LaZCiANSMNgs)
+  - [DEX Market](https://explorer.solana.com/address/2tJ2LVReFCZF81Ej4MAQHEr1kRSmk6QQ5XSnzjC9KJNj)
+- Mainnet examples:
+  - [DEX Program](https://explorer.solana.com/address/4ckmDgGdxQoPDLUkDT3vHgSAkzA3QRdNq5ywwY4sUSJn)
+  - [DEX Market](https://explorer.solana.com/address/8AcVjMG2LTbpkjNoyq8RwysokqZunkjy3d5JDzxC6BJa)
+- [PySerum](https://github.com/serum-community/pyserum): Python client library for interacting with the Project Serum DEX.
+- Swap based on Serum DEX orderbook:
+  - [Swap UI](https://github.com/project-serum/swap-ui)
+  - [Swap code](https://github.com/project-serum/swap)
