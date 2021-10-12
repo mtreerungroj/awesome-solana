@@ -23,7 +23,7 @@
 ## 🧑🏻‍💻 Developer
 
 ### Must Read
-- [Splana Doc]: https://docs.solana.com/
+- Solana Doc: https://docs.solana.com/
 - [Sealevel parallel runtime](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192): https://github.com/solana-labs/solana-program-library/blob/master/examples/rust/README.md
 
 ### Basic examples
