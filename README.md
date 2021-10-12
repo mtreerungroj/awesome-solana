@@ -21,11 +21,14 @@
 - - -
 
 ## Developer
-### Learn
+### Basic examples
 - `Figment` Learn: https://learn.figment.io/
 - [Hello World](https://github.com/solana-labs/example-helloworld)
+- [Hello Chainlink Price Feeds on Solana](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)
 - [Break Solana](https://github.com/solana-labs/break)
-- [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
+
+### Advance examples
+- [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/): Building the escrow program
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
 - [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
