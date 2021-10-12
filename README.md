@@ -2,30 +2,27 @@
 
 ## User
 ### Bridge
-- `Allbridge` is backed by `APYSwap` Foundation: https://allbridge.io/
+- `Allbridge`: backed by `APYSwap` Foundation: https://allbridge.io/
+- `Wormhole`: just release v2, (liquidity still not stable `BSC`↔︎`ETH`↔︎`SOL`): https://wormholebridge.com/#/transfer
 
-### Exchange
-- Saber (cross-chain stablecoin exchange): https://saber.so/
-
-### Automated Market Maker
-- Raydium (DEX on Serum): https://raydium.io/
+### Farms
+- `Raydium` (DEX on `Serum`): https://raydium.io/
+- `APYSwap`: Stake(`ABR` APR 522.37%): https://stake.apyswap.com/
+- `Orca`: Pools(`ABR-USDC` APR 218%): https://www.orca.so/pools
+- `Saber`: cross-chain stablecoin exchange, low and unable to sort APY: https://saber.so/
 
 ### Yield Aggregator
-- SolFarm aggregates yield farms from Raydium and Saber: https://solfarm.io/
-- Sunny Aggregator (Solana's composable DeFi yield aggregator) https://app.sunny.ag/
+- `SolFarm` Aggregates yield farms from `Raydium` and `Saber` (`ORCA-USDC` APY 350.97%): https://solfarm.io/
+- `Sunny` Aggregator (Solana's composable DeFi yield aggregator), low apy bad ui:  https://app.sunny.ag/
 
 ### Fundraising Protocol
-- Solanium: https://solanium.io/
-
-### DeFi
-- Stake(`ABR` APR 522.37%): https://stake.apyswap.com/
-- Pools(`ABR-USDC` APR 218%): https://www.orca.so/pools
+- `Solanium`: https://solanium.io/
 
 - - -
 
 ## Developer
 ### Learn
-- Figment Learn: https://learn.figment.io/
+- `Figment` Learn: https://learn.figment.io/
 - [Hello World](https://github.com/solana-labs/example-helloworld)
 - [Break Solana](https://github.com/solana-labs/break)
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
@@ -55,8 +52,8 @@
 - Wormhole is a protocol for communication between different blockchains: https://wormholenetwork.com/
 
 ### Storage
-- Arweave and Solana partnered to provide a decentralised permanent data storage solution of ledger data: https://www.arweave.org/
-- Ceramic (Streaming `IPFS`): https://ceramic.network/
+- `Arweave` and Solana partnered to provide a decentralised permanent data storage solution of ledger data: https://www.arweave.org/
+- `Ceramic` (Streaming `IPFS`): https://ceramic.network/
 
 ### Tools
 - [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters
