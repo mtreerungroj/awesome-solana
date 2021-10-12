@@ -1,6 +1,6 @@
 # awesome-solana
 
-## User
+## 👩‍🎤 User
 ### Bridge
 - `Allbridge`: backed by `APYSwap` Foundation: https://allbridge.io/
 - `Wormhole`: just release v2, (liquidity still not stable `BSC`↔︎`ETH`↔︎`SOL`): https://wormholebridge.com/#/transfer
@@ -20,24 +20,30 @@
 
 - - -
 
-## Developer
+## 🧑🏻‍💻 Developer
+
+### Must Read
+- [Splana Doc]: https://docs.solana.com/
+- [Sealevel parallel runtime](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192): https://github.com/solana-labs/solana-program-library/blob/master/examples/rust/README.md
+
 ### Basic examples
 - `Figment` Learn: https://learn.figment.io/
 - [Hello World](https://github.com/solana-labs/example-helloworld)
 - [Hello Chainlink Price Feeds on Solana](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)
 - [Break Solana](https://github.com/solana-labs/break)
 
-### Advance examples
+### Advanced examples
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/): Building the escrow program
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
 - [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
-- [Messaging App](https://github.com/kemargrant/soltalk) - Proof of Concept
+- [Messaging App](https://github.com/kemargrant/soltalk): Proof of Concept
+- [Permissioned Markets](https://github.com/project-serum/permissioned-markets-quickstart) (Use `Serum`)
 
 ### Libraries & Frameworks
-- Solana Program Library (SPL) is a collection of on-chain programs targeting the [Sealevel parallel runtime](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192): https://github.com/solana-labs/solana-program-library/blob/master/examples/rust/README.md
+- Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime: https://github.com/solana-labs/solana-program-library/blob/master/examples/rust/README.md
+- [Anchor Framework](https://project-serum.github.io/anchor/getting-started/introduction.html): a framework for Solana's Sealevel (opens new window)runtime providing several convenient developer tools : https://project-serum.github.io/anchor/tutorials/tutorial-0.html
 - [StreamingFast Solana library for Go](https://github.com/streamingfast/solana-go)
-- Anchor Framework: https://project-serum.github.io/anchor/getting-started/introduction.html
 
 ### RPC servers
 - Project Serum: [https://solana-api.projectserum.com](https://solana-api.projectserum.com) (**recommended**)
@@ -65,7 +71,13 @@
 - [Bonfida Token Minter](https://bonfida.com/mint)
 - [SPL Manager](http://splmanager.com/)
 
-### Serum (FTX DEX backend): https://projectserum.com/
+- - -
+
+## 👩‍🚀 Product Examples
+### `Ceramic`
+- Playground: https://developers.ceramic.network/explore/sample-apps/
+
+### `Serum` (FTX DEX backend): https://projectserum.com/
 - [DEX source code](https://github.com/project-serum/serum-dex)
 - [Serum.JS](https://github.com/project-serum/serum-js), client-side javascript resources to connect to the DEX
 - [Serum DEX UI](https://github.com/project-serum/serum-dex-ui), an implementation of a UI for the Serum DEX
