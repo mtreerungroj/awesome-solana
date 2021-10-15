@@ -31,6 +31,7 @@
 - [Hello World](https://github.com/solana-labs/example-helloworld)
 - [Hello Chainlink Price Feeds on Solana](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)
 - [Break Solana](https://github.com/solana-labs/break)
+- [R/W JSON format on the Solana contract](https://github.com/jamesbachini/Solana-JSON)
 
 ### Video examples
 - [Building SmartContracts With #Solana and #Rust](https://www.youtube.com/watch?v=gA7hFdq2h9Q)
@@ -76,6 +77,9 @@
 - [SPL Token Creator UI](https://www.spl-token-ui.com/)
 - [Bonfida Token Minter](https://bonfida.com/mint)
 - [SPL Manager](http://splmanager.com/)
+
+### Ethereum related
+- https://github.com/jamesbachini/Solana-JSON
 
 - - -
 
