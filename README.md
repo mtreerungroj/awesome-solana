@@ -84,8 +84,10 @@
 - - -
 
 ## 👩‍🚀 Product Examples
-### `Ceramic`
-- Playground: https://developers.ceramic.network/explore/sample-apps/
+
+### `Metaplex`
+> [Metaplex](https://metaplex.com/) is a strategic partner of Solana Labs
+- Create a Solana NFT marketplace and mint NFTs using Metaplex: https://learn.figment.io/tutorials/create-a-solana-nft-marketplace-with-metaplex
 
 ### `Serum` (FTX DEX backend): https://projectserum.com/
 - [DEX source code](https://github.com/project-serum/serum-dex)
@@ -101,3 +103,6 @@
 - Swap based on Serum DEX orderbook:
   - [Swap UI](https://github.com/project-serum/swap-ui)
   - [Swap code](https://github.com/project-serum/swap)
+
+### `Ceramic`
+- Playground: https://developers.ceramic.network/explore/sample-apps/
