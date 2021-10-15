@@ -87,7 +87,7 @@
 
 ### `Metaplex`
 > [Metaplex](https://metaplex.com/) is a strategic partner of `Solana` Labs
-- Create a Solana NFT marketplace and mint `NFT`s using `Metaplex`: https://learn.figment.io/tutorials/create-a-solana-nft-marketplace-with-metaplex
+- Create a `Solana` `NFT` marketplace and mint `NFT`s using `Metaplex` on `Arweave`: https://learn.figment.io/tutorials/create-a-solana-nft-marketplace-with-metaplex
 - `Metaplex` Docs : https://docs.metaplex.com/architecture/deep_dive/overview
 
 ### `Serum` (FTX DEX backend): https://projectserum.com/
