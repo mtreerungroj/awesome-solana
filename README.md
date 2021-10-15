@@ -8,11 +8,11 @@
 ### Farms
 - `Raydium` (DEX on `Serum`): https://raydium.io/
 - `APYSwap`: Stake(`ABR` APR 522.37%): https://stake.apyswap.com/
-- `Orca`: Pools(`ABR-USDC` APR 218%): https://www.orca.so/pools
+- 🐳 `Orca`: Pools(`ABR-USDC` APR 218%): https://www.orca.so/pools
 - `Saber`: cross-chain stablecoin exchange, low and unable to sort APY: https://saber.so/
 
 ### Yield Aggregator
-- `SolFarm` Aggregates yield farms from `Raydium` and `Saber` (`ORCA-USDC` APY 350.97%): https://solfarm.io/
+- 🌷 `Tulip` Aggregates yield farms from `Raydium` and `Saber` (`ORCA-USDC` APY 350.97%): https://tulip.garden/
 - `Sunny` Aggregator (Solana's composable DeFi yield aggregator), low apy bad ui:  https://app.sunny.ag/
 
 ### Fundraising Protocol
@@ -65,7 +65,7 @@
 - Bonfida: https://docs.bonfida.com/#exchanges
 
 ### Messaging
-- Wormhole is a protocol for communication between different blockchains: https://wormholenetwork.com/
+- `Wormhole` is a protocol for communication between different blockchains: https://wormholenetwork.com/
 
 ### Storage
 - `Arweave` and Solana partnered to provide a decentralised permanent data storage solution of ledger data: https://www.arweave.org/
