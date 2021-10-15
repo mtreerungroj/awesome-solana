@@ -79,7 +79,7 @@
 - [SPL Manager](http://splmanager.com/)
 
 ### Ethereum related
-- https://github.com/jamesbachini/Solana-JSON
+- [Neon EVM](https://neon-labs.org/) is an Ethereum virtual machine on Solana that enables dApp developers to use Ethereum tooling to scale and get access to liquidity on Solana.
 
 - - -
 
