@@ -52,10 +52,15 @@
 - [StreamingFast Solana library for Go](https://github.com/streamingfast/solana-go)
 - [Rust Library for the Binance API](https://github.com/wisespace-io/binance-rs)
 
-### RPC servers
-- Project Serum: [https://solana-api.projectserum.com](https://solana-api.projectserum.com) (**recommended**)
+### `RPC` servers
+- Project Serum: https://solana-api.projectserum.com (**recommended**)
 - Figment-Solana: https://docs.figment.io/network-documentation/solana/rpc-and-rest-api
-- Solana: [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com) (**can be unstable**)
+- Solana: https://api.mainnet-beta.solana.com (**can be unstable**)
+- GenesysGo: https://genesysgo.com/
+- RunNode: https://runnode.com/
+- Triton RPC Pool: https://rpcpool.com/
+- Blockdaemon: https://blockdaemon.com/marketplace/solana/
+- Syndica: https://syndica.io/
 
 ### Data/API
 - DataHub: https://figment.io/datahub/
