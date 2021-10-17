@@ -137,5 +137,5 @@
 
 - - -
 
-## Audit
+## 🕵🏻‍♂️ Audit
 - `Bonfida` by  Kudelski: https://github.com/Bonfida/token-vesting/blob/master/audit/Bonfida_SecurityAssessment_Vesting_Final050521.pdf
