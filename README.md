@@ -85,6 +85,10 @@
 - [Serum Vial](https://github.com/tardis-dev/serum-vial) - real-time WebSocket market data API for Serum
 - Bonfida: https://docs.bonfida.com/#exchanges
 
+### Price examples
+- `curl 'https://price-api.sonar.watch/prices/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE'`
+- `curl 'https://api.solscan.io/account?address=orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE'`
+
 ### Messaging
 - `Wormhole` is a protocol for communication between different blockchains: https://wormholenetwork.com/
 
