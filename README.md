@@ -105,6 +105,8 @@
 - [SPL Token Creator UI](https://www.spl-token-ui.com/)
 - [Bonfida Token Minter](https://bonfida.com/mint)
 - [SPL Manager](http://splmanager.com/)
+- [Phantom Wallet](https://phantom.app/) A non-custodial, chrome extension, Solana crypto wallet
+- [SolFlare](https://solflare.com/) Non-custodial wallet for Solana
 
 ### Network status
 
