@@ -77,6 +77,8 @@
 - Syndica: https://syndica.io/
 
 ### Data/API
+- Token list: https://github.com/solana-labs/token-list/blob/main/src/tokens/solana.tokenlist.json
+- `Serum` Price API by `Sonar`: https://docs-price-api.sonar.watch/
 - DataHub: https://figment.io/datahub/
 - Pyth provides real-time on-chain market data: https://pyth.network/
 - Flux Protocol (cross-chain oracle aggregator): https://www.fluxprotocol.org/
