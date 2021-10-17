@@ -78,6 +78,13 @@
 - [Bonfida Token Minter](https://bonfida.com/mint)
 - [SPL Manager](http://splmanager.com/)
 
+### Network status
+
+- [@solanastatus](https://twitter.com/solanastatus) Twitter
+- [Services status](https://status.solana.com/) an official site
+- [Solana Beach](https://solanabeach.io/) services status and block explorer
+- [Solana Validators](https://www.validators.app/) view validators statistics
+
 ### Ethereum related
 - [Neon EVM](https://neon-labs.org/) is an Ethereum virtual machine on Solana that enables dApp developers to use Ethereum tooling to scale and get access to liquidity on Solana.
 
