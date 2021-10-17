@@ -59,6 +59,10 @@
 - [StreamingFast Solana library for Go](https://github.com/streamingfast/solana-go)
 - [Rust Library for the Binance API](https://github.com/wisespace-io/binance-rs)
 
+### Full Stacks
+- Tokio: https://tokio.rs/
+  > Tokio is an asynchronous runtime for the Rust programming language. It provides the building blocks needed for writing network applications. It gives the flexibility to target a wide range of systems, from large servers with dozens of cores to small embedded devices.
+
 ### `RPC` servers
 - Project Serum: https://solana-api.projectserum.com (**recommended**)
 - Figment-Solana: https://docs.figment.io/network-documentation/solana/rpc-and-rest-api
