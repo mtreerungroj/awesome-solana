@@ -27,7 +27,7 @@
 
 ### Must Read
 - Solana Doc: https://docs.solana.com/
-- [Sealevel parallel runtime](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192): https://github.com/solana-labs/solana-program-library/blob/master/examples/rust/README.md
+- [Sealevel parallel runtime](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
 
 ### Basic examples
 - `Figment` Learn: https://learn.figment.io/
@@ -35,6 +35,9 @@
 - [Hello Chainlink Price Feeds on Solana](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)
 - [Break Solana](https://github.com/solana-labs/break)
 - [R/W JSON format on the Solana contract](https://github.com/jamesbachini/Solana-JSON)
+
+### Solana Program Library (SLP) examples
+- [Program examples written in Rust](https://github.com/solana-labs/solana-program-library/tree/master/examples/rust)
 
 ### Video examples
 - [Building SmartContracts With #Solana and #Rust](https://www.youtube.com/watch?v=gA7hFdq2h9Q)
