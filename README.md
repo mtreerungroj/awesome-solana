@@ -18,6 +18,9 @@
 ### Fundraising Protocol
 - `Solanium`: https://solanium.io/
 
+### NFT
+- https://solanart.io/
+
 - - -
 
 ## 🧑🏻‍💻 Developer
@@ -40,11 +43,15 @@
 
 ### Advanced examples
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/): Building the escrow program
+- [A Vesting Contract for the Solana Blockchain](https://github.com/Bonfida/token-vesting)
+- [Staking](https://github.com/step-finance/step-staking) (Use `Anchor`)
+- [Permissioned Markets](https://github.com/project-serum/permissioned-markets-quickstart) (Use `Serum`)
+
+### Other examples
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
 - [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
 - [Messaging App](https://github.com/kemargrant/soltalk): Proof of Concept
-- [Permissioned Markets](https://github.com/project-serum/permissioned-markets-quickstart) (Use `Serum`)
 
 ### Libraries & Frameworks
 - Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime: https://github.com/solana-labs/solana-program-library/blob/master/examples/rust/README.md
@@ -95,7 +102,8 @@
 - Create a `Solana` `NFT` marketplace and mint `NFT`s using `Metaplex` on `Arweave`: https://learn.figment.io/tutorials/create-a-solana-nft-marketplace-with-metaplex
 - `Metaplex` Docs : https://docs.metaplex.com/architecture/deep_dive/overview
 
-### `Serum` (FTX DEX backend): https://projectserum.com/
+### `Serum`
+> (FTX DEX backend): https://projectserum.com/
 - [DEX source code](https://github.com/project-serum/serum-dex)
 - [Serum.JS](https://github.com/project-serum/serum-js), client-side javascript resources to connect to the DEX
 - [Serum DEX UI](https://github.com/project-serum/serum-dex-ui), an implementation of a UI for the Serum DEX
@@ -105,10 +113,22 @@
 - Mainnet examples:
   - [DEX Program](https://explorer.solana.com/address/4ckmDgGdxQoPDLUkDT3vHgSAkzA3QRdNq5ywwY4sUSJn)
   - [DEX Market](https://explorer.solana.com/address/8AcVjMG2LTbpkjNoyq8RwysokqZunkjy3d5JDzxC6BJa)
-- [PySerum](https://github.com/serum-community/pyserum): Python client library for interacting with the Project Serum DEX.
 - Swap based on Serum DEX orderbook:
   - [Swap UI](https://github.com/project-serum/swap-ui)
   - [Swap code](https://github.com/project-serum/swap)
 
 ### `Ceramic`
 - Playground: https://developers.ceramic.network/explore/sample-apps/
+
+### Step.finance
+> Step Finance is a portfolio visualisation platform which aggregates all LPs, tokens, farms and positions that a user may have associated with their wallet and displays it in an easy to use dashboard with various useful metrics and visualisations. Step aims to be the page which DeFi users have open all day with all the functions and information they need to make informed decisions.
+- Github: https://github.com/orgs/step-finance/repositories
+
+### Bonfia
+> Bonfida is a an on-chain and off-chain tool suite that enables the creation of trading pools.
+- Github: https://github.com/Bonfida
+
+- - -
+
+## Audit
+- `Bonfida` by  Kudelski: https://github.com/Bonfida/token-vesting/blob/master/audit/Bonfida_SecurityAssessment_Vesting_Final050521.pdf
