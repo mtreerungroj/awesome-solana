@@ -32,6 +32,8 @@
 ### Must Read
 - Solana Doc: https://docs.solana.com/
 - [Sealevel parallel runtime](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
+- Solana Program Library (SLP): https://spl.solana.com/
+  > The Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime.
 
 ### Basic examples
 - `Figment` Learn: https://learn.figment.io/
@@ -39,8 +41,6 @@
 - [Hello Chainlink Price Feeds on Solana](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)
 - [Break Solana](https://github.com/solana-labs/break)
 - [R/W JSON format on the Solana contract](https://github.com/jamesbachini/Solana-JSON)
-
-### Solana Program Library (SLP) examples
 - [Program examples written in Rust](https://github.com/solana-labs/solana-program-library/tree/master/examples/rust)
 
 ### Video examples
