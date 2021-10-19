@@ -42,6 +42,7 @@
 - [Break Solana](https://github.com/solana-labs/break)
 - [R/W JSON format on the Solana contract](https://github.com/jamesbachini/Solana-JSON)
 - [Program examples written in Rust](https://github.com/solana-labs/solana-program-library/tree/master/examples/rust)
+- [Interface for creating and managing SPL Tokens](https://www.spl-token-ui.com/#/)
 
 ### Video examples
 - [Building SmartContracts With #Solana and #Rust](https://www.youtube.com/watch?v=gA7hFdq2h9Q)
