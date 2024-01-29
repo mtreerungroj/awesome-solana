@@ -109,6 +109,7 @@
 - [SPL Manager](http://splmanager.com/)
 - [Phantom Wallet](https://phantom.app/) A non-custodial, chrome extension, Solana crypto wallet
 - [SolFlare](https://solflare.com/) Non-custodial wallet for Solana
+- [L3X](https://github.com/VulnPlanet/l3x) AI-driven Smart Contract Static Analyzer
 
 ### Network status
 
